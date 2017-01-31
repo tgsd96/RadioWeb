@@ -1,1 +1,1 @@
-Developing web app
+A web platform for RadioLogists, designed to collect vast amount of image data sets for better deep learning applications.
